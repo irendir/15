@@ -1,0 +1,4 @@
+.country-prev-next {
+    display: flex;
+    /*flex-direction: column;*/
+}
